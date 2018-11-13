@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2player Clicker Game </string>
+    <string name="button1">Click P1</string>
+    <string name="button2">Click P2</string>
+    <string name="button3">Reset</string>
+    <string name="counter1">0</string>
+    <string name="counter2">0</string>
+    <string name="player1">TextView</string>
+    <string name="player2">TextView</string>
+</resources>
